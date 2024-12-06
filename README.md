@@ -31,11 +31,6 @@ Avant de commencer, assurez-vous d'avoir les éléments suivants installés sur 
 
 Clonez le repository sur votre machine locale :
 
-```bash
-git clone https://github.com/votre-utilisateur/votre-repository.git
-cd votre-repository
-```
-
 #### b. Configurer la base de données
 
 Avant de démarrer le backend, assurez-vous que PostgreSQL est installé et en cours d'exécution.
